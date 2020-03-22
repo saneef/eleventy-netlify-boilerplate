@@ -1,7 +1,6 @@
 backend:
-  name: github
-  repo: saneef/eleventy-netlify-boilerplate
-  base_url: https://api.netlify.com
+  name: git-gateway
+  branch: maste
 
 # Uncomment below to enable drafts
 publish_mode: editorial_workflow
