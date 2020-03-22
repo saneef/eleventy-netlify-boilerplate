@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: saneef/eleventy-netlify-boilerplate
+  base_url: https://api.netlify.com
 
 # Uncomment below to enable drafts
 publish_mode: editorial_workflow
